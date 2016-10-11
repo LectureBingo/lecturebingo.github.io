@@ -1,1 +1,1 @@
-window.LB_DEPLOYMENT_URL = 'https://b-appisodeapps.rhcloud.com';
+window.LB_DEPLOYMENT_URL = 'https://b-appisodeapps.rhcloud.com:8443';
