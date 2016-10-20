@@ -1,1 +1,1 @@
-window.LB_DEPLOYMENT_URL = 'https://b-appisodeapps.rhcloud.com:8443';
+window.LB_DEPLOYMENT_URL = 'https://lecturebingo-unicorny.rhcloud.com:8443';
